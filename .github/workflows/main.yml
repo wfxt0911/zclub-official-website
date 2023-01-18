@@ -57,7 +57,7 @@ jobs:
         port: ${{ secrets.PORT }}
         #重点，下方的地址请更改成你自己的项目地址
         script: |
-          cd /root/realworld-nuxtjs
+          cd /www/wwwroot/zclub.top/  
           wget https://github.com/wfxt0911/zclub-official-website/releases/latest/download/release.tgz -O release.tgz
           tar zxvf release.tgz
           npm install --production
