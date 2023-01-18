@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,s as e,G as c}from"./framework-f055c134.js";const n={},r=e("h2",{id:"欢迎",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#欢迎","aria-hidden":"true"},"#"),c(" 欢迎")],-1),o=[r];function _(d,i){return a(),s("div",null,o)}const l=t(n,[["render",_],["__file","index.html.vue"]]);export{l as default};

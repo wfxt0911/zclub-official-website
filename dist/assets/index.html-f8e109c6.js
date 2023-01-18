@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as o,s as e}from"./framework-f055c134.js";const c="/assets/logo-21d189cd.png",n={},_=e("p",null,[e("img",{src:c,alt:"123"})],-1),r=[_];function a(l,d){return t(),o("div",null,r)}const m=s(n,[["render",a],["__file","index.html.vue"]]);export{m as default};

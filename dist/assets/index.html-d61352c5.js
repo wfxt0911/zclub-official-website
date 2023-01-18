@@ -1,0 +1,1 @@
+import{_ as o,p as a,q as n,t as s,s as e,G as c,n as r}from"./framework-f055c134.js";const _={},d=e("h2",{id:"快捷导航",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#快捷导航","aria-hidden":"true"},"#"),c(" 快捷导航")],-1);function i(h,l){const t=r("home");return a(),n("div",null,[d,s(t)])}const f=o(_,[["render",i],["__file","index.html.vue"]]);export{f as default};

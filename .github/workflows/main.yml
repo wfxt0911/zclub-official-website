@@ -21,7 +21,7 @@ jobs:
     - run: npm install 
       #创建项目
     - run: npm run build
-    - run: tar -zcvf release.tgz .vuepress/dist
+    - run: tar -zcvf release.tgz dist
 
     # 发布 Release
     - name: Create Release

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2fe22be7","path":"/docs/nav/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"欢迎","slug":"欢迎","link":"#欢迎","children":[]}],"git":{"createdTime":1674029722000,"updatedTime":1674029722000,"contributors":[{"name":"zhouwenfu","email":"wfxt0911@163.com","commits":1}]},"filePathRelative":"docs/nav/index.md"}');export{e as data};
