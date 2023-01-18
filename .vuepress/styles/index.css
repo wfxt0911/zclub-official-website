@@ -1,0 +1,25 @@
+@import "font-awesome/css/font-awesome.css";
+@import "./anime.css";
+
+.home-wrapper {
+    .footer-wrapper {
+        span:first-child {
+            display: none;
+        }
+    }
+}
+/* .theme-reco-default-content{
+    background: url("/bg.svg") center center / cover no-repeat;
+    width: 100vw;
+    height: 100vh;
+    max-width:unset !important;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-bottom: unset !important;
+} */
+
+
+
+
+
